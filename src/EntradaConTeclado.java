@@ -22,7 +22,8 @@ public class EntradaConTeclado {
         int numero1 = sc.nextInt();
         int numero2 = sc.nextInt();
         // hacemos la suma
-        int suma = numero1 + numero2
+        int suma = numero1 + numero2;
+        System.out.println("La suma de los dos números es: " + suma);
 
 
     }
